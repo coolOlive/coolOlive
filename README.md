@@ -4,7 +4,7 @@
 **coolOlive/coolOlive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+👋:sparkler:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 👋Blog
+### :computer:Blog  ↓
 ### <a href="https://blog.naver.com/pomoc153" target="_blank"><img src="https://img.shields.io/badge/기술 블로그-03C75A?style=for-the-badge&logo=Naver&logoColor=ffffff"/></a>
