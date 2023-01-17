@@ -15,10 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 ### :computer:Blog  ↓
 # Blog&nbsp;&nbsp;<a href="https://blog.naver.com/pomoc153" target="_blank"><img src="https://img.shields.io/badge/블로그-03C75A?style=for-the-badge&logo=Naver&logoColor=ffffff"/></a>
--->
+
 
 # Blog
 <a href="https://blog.naver.com/pomoc153" target="_blank"><img src="https://img.shields.io/badge/블로그-03C75A?style=for-the-badge&logo=Naver&logoColor=ffffff"/></a>
+-->
+
 
 # Baekjoon
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=galilee155)](https://solved.ac/galilee155/)
