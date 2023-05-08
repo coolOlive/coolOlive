@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 -->
 
 
-# Baekjoon
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=galilee155)](https://solved.ac/galilee155/)
+<!-- # Baekjoon
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=galilee155)](https://solved.ac/galilee155/) -->
 
-
+👋
