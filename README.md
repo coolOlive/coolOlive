@@ -15,13 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 ### :computer:Blog  ↓
 # Blog&nbsp;&nbsp;<a href="https://blog.naver.com/pomoc153" target="_blank"><img src="https://img.shields.io/badge/블로그-03C75A?style=for-the-badge&logo=Naver&logoColor=ffffff"/></a>
-
+![coolOlive's GitHub stats](https://github-readme-stats.vercel.app/api?username=coolOlive&show_icons=true&theme=transparent)
 
 # Blog
 <a href="https://blog.naver.com/pomoc153" target="_blank"><img src="https://img.shields.io/badge/블로그-03C75A?style=for-the-badge&logo=Naver&logoColor=ffffff"/></a>
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=galilee155)](https://solved.ac/galilee155/)
 -->
 
-# Baekjoon
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=galilee155)](https://solved.ac/galilee155/)
+# Blog & Baekjoon
+<a href="https://blog.naver.com/pomoc153" target="_blank"><img src="https://img.shields.io/badge/블로그-03C75A?style=for-the-badge&logo=Naver&logoColor=ffffff"/></a>
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=galilee155)](https://solved.ac/galilee155)
 
