@@ -27,12 +27,12 @@ Here are some ideas to get you started:
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=galilee155)](https://solved.ac/galilee155)
 
 <div style="display: flex; justify-content: space-between; gap: 10px;">
-    <a href="https://github.com/potential1205/github-readme-stats">
+    <a href="https://github.com/galilee155/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api?username=coolOlive" style="width: 305px; height: auto;">
     </a>
-    <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=potential1205&layout=compact" alt="Top Languages" style="width: 242px; height: auto;"></a>
+    <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coolOlive&layout=compact" alt="Top Languages" style="width: 242px; height: auto;"></a>
   <a href="https://solved.ac/galilee155/">
-      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=potential1205" style="width: 274px; height: auto;">
+      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=galilee155" style="width: 274px; height: auto;">
     </a>
 </div>
 
